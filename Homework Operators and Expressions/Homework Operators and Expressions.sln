@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.OddOrEvenIntegers", "01.OddOrEvenIntegers\01.OddOrEvenIntegers.csproj", "{08DCD63C-E27E-4B57-A61D-1C15C2FFBE12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.DivideBy7and5", "03.DivideBy7and5\03.DivideBy7and5.csproj", "{23EB85CA-646C-4212-8EE1-F4E95DD3FA2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Rectangles", "04.Rectangles\04.Rectangles.csproj", "{5026A2C5-7C07-4BA4-BB13-00A434AFEE25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.ThirdDigitIs7", "05.ThirdDigitIs7\05.ThirdDigitIs7.csproj", "{64FECC4E-EB45-43D5-9B0F-851E81005032}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.PrimeNumberCheck", "08.PrimeNumberCheck\08.PrimeNumberCheck.csproj", "{68C42BCD-75AB-4FF6-A4B3-2B6978AD1846}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.Trapezoids", "09.Trapezoids\09.Trapezoids.csproj", "{F2DDF0AD-53C5-4F3E-998C-ACAC90541750}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.PointsInACircle", "07.PointsInACircle\07.PointsInACircle.csproj", "{4506CC0A-5215-4E31-BD77-E002429B112B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.BitwiseExtract Bit3", "11.BitwiseExtract Bit3\11.BitwiseExtract Bit3.csproj", "{C614CEC4-3207-4233-8C22-F13650819738}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.ExtractBitFromInteger", "12.ExtractBitFromInteger\12.ExtractBitFromInteger.csproj", "{65C096C6-1D20-401C-9E3B-71B2FC8DDD9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.CheckABit AtGivenPosition", "13.CheckABit AtGivenPosition\13.CheckABit AtGivenPosition.csproj", "{9CCE2863-4405-48E5-AD29-8F18773C8164}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.GravitationOnTheMoon", "2.GravitationOnTheMoon\02.GravitationOnTheMoon.csproj", "{79A91F6D-C6C0-4909-BB58-E47C9BDE44BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08DCD63C-E27E-4B57-A61D-1C15C2FFBE12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08DCD63C-E27E-4B57-A61D-1C15C2FFBE12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08DCD63C-E27E-4B57-A61D-1C15C2FFBE12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08DCD63C-E27E-4B57-A61D-1C15C2FFBE12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23EB85CA-646C-4212-8EE1-F4E95DD3FA2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23EB85CA-646C-4212-8EE1-F4E95DD3FA2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23EB85CA-646C-4212-8EE1-F4E95DD3FA2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23EB85CA-646C-4212-8EE1-F4E95DD3FA2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5026A2C5-7C07-4BA4-BB13-00A434AFEE25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5026A2C5-7C07-4BA4-BB13-00A434AFEE25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5026A2C5-7C07-4BA4-BB13-00A434AFEE25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5026A2C5-7C07-4BA4-BB13-00A434AFEE25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64FECC4E-EB45-43D5-9B0F-851E81005032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64FECC4E-EB45-43D5-9B0F-851E81005032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64FECC4E-EB45-43D5-9B0F-851E81005032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64FECC4E-EB45-43D5-9B0F-851E81005032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68C42BCD-75AB-4FF6-A4B3-2B6978AD1846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68C42BCD-75AB-4FF6-A4B3-2B6978AD1846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68C42BCD-75AB-4FF6-A4B3-2B6978AD1846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68C42BCD-75AB-4FF6-A4B3-2B6978AD1846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2DDF0AD-53C5-4F3E-998C-ACAC90541750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2DDF0AD-53C5-4F3E-998C-ACAC90541750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2DDF0AD-53C5-4F3E-998C-ACAC90541750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2DDF0AD-53C5-4F3E-998C-ACAC90541750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4506CC0A-5215-4E31-BD77-E002429B112B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4506CC0A-5215-4E31-BD77-E002429B112B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4506CC0A-5215-4E31-BD77-E002429B112B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4506CC0A-5215-4E31-BD77-E002429B112B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C614CEC4-3207-4233-8C22-F13650819738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C614CEC4-3207-4233-8C22-F13650819738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C614CEC4-3207-4233-8C22-F13650819738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C614CEC4-3207-4233-8C22-F13650819738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65C096C6-1D20-401C-9E3B-71B2FC8DDD9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65C096C6-1D20-401C-9E3B-71B2FC8DDD9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65C096C6-1D20-401C-9E3B-71B2FC8DDD9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65C096C6-1D20-401C-9E3B-71B2FC8DDD9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CCE2863-4405-48E5-AD29-8F18773C8164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CCE2863-4405-48E5-AD29-8F18773C8164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CCE2863-4405-48E5-AD29-8F18773C8164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CCE2863-4405-48E5-AD29-8F18773C8164}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79A91F6D-C6C0-4909-BB58-E47C9BDE44BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A91F6D-C6C0-4909-BB58-E47C9BDE44BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A91F6D-C6C0-4909-BB58-E47C9BDE44BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A91F6D-C6C0-4909-BB58-E47C9BDE44BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
