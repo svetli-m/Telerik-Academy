@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: 09.ExchangeVariableValues, Configuration: Debug Any CPU ------
+1>  09.ExchangeVariableValues -> D:\Svetli\Telerik Academy\C#\C# Homework\Homework Primitive Data Types and Variables\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
